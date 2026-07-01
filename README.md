@@ -42,7 +42,7 @@ can find the right move under exam pressure without reading paragraphs.
 | 05 | [Linux privilege escalation](05-linux-privesc.md) | ✅ |
 | 06 | [Windows privilege escalation](06-windows-privesc.md) | ✅ |
 | 07 | [Pivoting & tunneling](07-pivoting-and-tunneling.md) | ✅ |
-| 08 | Active Directory (initial access → domain dominance) | 🔜 |
+| 08 | [Active Directory (initial access → domain dominance)](08-active-directory.md) | ✅ |
 | 09 | [File transfers](09-file-transfers.md) | ✅ |
 | 10 | [Post-exploitation & loot](10-post-exploitation-and-loot.md) | ✅ |
 | A | [Appendix: ports, default creds, key file locations](appendix-ports-and-references.md) | ✅ |
